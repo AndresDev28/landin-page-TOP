@@ -188,3 +188,17 @@ p {
     border-radius: 6px;
     border: 2px solid #f9faf8;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#footer {
+    margin: 0;
+}
