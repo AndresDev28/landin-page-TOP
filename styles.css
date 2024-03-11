@@ -148,3 +148,43 @@ a {
     font-weight: 900;
     font-size: 18px;
 }
+
+/* CTA section styles*/
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #388df6;
+    border-radius: 6px;
+    width: 800px;
+    padding: 20px;
+}
+
+h3 {
+    color: #f9faf8;
+    margin-bottom: 0;
+    font-weight: 900;
+}
+
+p {
+    color: #E5E7EB;
+    font-weight: lighter;
+    margin-top: 0;
+}
+
+.button-cta {
+    background-color: #388df6;
+    color: #f9faf8;
+    font-weight: bold;
+    padding: 6px 22px;
+    border-radius: 6px;
+    border: 2px solid #f9faf8;
+}
