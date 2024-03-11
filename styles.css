@@ -114,3 +114,37 @@ a {
     font-size: 18px;
     color: #1F2937;
 }
+
+/* Quote section styles*/
+
+.quote-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+
+.quote-texts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    padding: 100px;
+}
+
+.quote {
+    margin: 0;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+    margin-left: 20px;
+}
+
+.author {
+    margin: 0;
+    color: #1F2937;
+    text-align: right;
+    font-weight: 900;
+    font-size: 18px;
+}
